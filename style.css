@@ -240,15 +240,15 @@ strong {
 /* Mobile Ver */
 @media (max-width: 500px) {
     .credits, .text, section.intro p {
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 17px;
+        padding-right: 17px;
     }
     .judul-serif-white {
         font-family: Merriweather,serif;
         font-weight: 900;
         font-size: 30px;
 
-        padding: 0 10px;
+        padding: 0 17px;
         margin: 30px auto 30px;
         text-align: center;
     }
@@ -257,7 +257,7 @@ strong {
         font-weight: 900;
         font-size: 30px;
 
-        padding: 0 15px;
+        padding: 0 17px;
         margin: 30px auto 30px;
         text-align: center;
     }
